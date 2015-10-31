@@ -33,4 +33,4 @@ chmod +x
 
 **My Linux Blog:** http://linux.aligoren.com
 
-*Also you can see gist: https://gist.github.com/aligoren/b8afe78936cacde835be*
+*Also you can see on gist: https://gist.github.com/aligoren/b8afe78936cacde835be*
