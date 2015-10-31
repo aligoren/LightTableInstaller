@@ -30,4 +30,7 @@ chmod +x
 # Open Source for Freedom
 
 **My Blog:** http://aligoren.com
+
 **My Linux Blog:** http://linux.aligoren.com
+
+*Also you can see gist: https://gist.github.com/aligoren/b8afe78936cacde835be*
