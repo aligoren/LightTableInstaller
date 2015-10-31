@@ -1,4 +1,4 @@
-# LightTableInstaller
+# Light Table Installer
 
 Light Table Installer Bash Script
 
